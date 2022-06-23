@@ -1,2 +1,2 @@
 # bootstrap-boilerplate
-creating a project directory
+This a CSS drawling of teh cute lazy egg Gudetama! "meh..."
